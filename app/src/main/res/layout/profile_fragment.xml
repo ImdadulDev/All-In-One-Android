@@ -6,7 +6,7 @@
     <data>
 
         <variable name="viewmodel"
-                  type="net.rexdev.mvvm.ui.home.profile.ProfileViewModel"
+                  type="com.android.imdadul.aio.ui.home.profile.ProfileViewModel"
         />
 
     </data>

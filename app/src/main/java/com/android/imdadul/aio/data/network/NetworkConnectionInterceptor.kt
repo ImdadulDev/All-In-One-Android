@@ -3,7 +3,7 @@ package com.android.imdadul.aio.data.network
 import android.content.Context
 import android.net.ConnectivityManager
 import android.net.NetworkCapabilities
-import com.android.imdadul.aio.util.NoInternetException
+import com.android.imdadul.aio.utils.NoInternetException
 import okhttp3.Interceptor
 import okhttp3.Response
 

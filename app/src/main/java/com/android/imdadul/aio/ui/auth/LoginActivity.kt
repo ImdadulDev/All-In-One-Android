@@ -9,7 +9,9 @@ import kotlinx.coroutines.launch
 import com.android.imdadul.aio.R
 import com.android.imdadul.aio.databinding.ActivityLoginBinding
 import com.android.imdadul.aio.ui.home.HomeActivity
-import com.android.imdadul.aio.util.*
+import com.android.imdadul.aio.utils.ApiException
+import com.android.imdadul.aio.utils.NoInternetException
+import com.android.imdadul.aio.ui.viewfun.snackbar
 import org.kodein.di.KodeinAware
 import org.kodein.di.android.kodein
 import org.kodein.di.generic.instance

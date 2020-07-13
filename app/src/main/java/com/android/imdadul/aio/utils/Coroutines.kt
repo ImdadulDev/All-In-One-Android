@@ -1,4 +1,4 @@
-package com.android.imdadul.aio.util
+package com.android.imdadul.aio.utils
 
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

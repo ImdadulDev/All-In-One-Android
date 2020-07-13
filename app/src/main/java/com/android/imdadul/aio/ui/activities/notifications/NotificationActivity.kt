@@ -2,14 +2,13 @@ package com.android.imdadul.aio.notifications
 
 import android.os.Bundle
 import android.util.Log
+import androidx.appcompat.app.AppCompatActivity
 import com.android.imdadul.aio.R
-import com.android.imdadul.aio.activities.BaseActivity
 import com.google.firebase.iid.FirebaseInstanceId
 import com.google.firebase.iid.InstanceIdResult
-import java.io.IOException
 
 //send notification using postman: https://medium.com/android-school/test-fcm-notification-with-postman-f91ba08aacc3
-class NotificationActivity : BaseActivity() {
+class NotificationActivity :AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

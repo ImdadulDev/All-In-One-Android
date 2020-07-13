@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">MVVM Sample App</string>
+
+    <string name="description">Description</string>
+    
+    <string-array name="phone_number_content">
+        <item>+919564636037</item>
+    </string-array>
 </resources>

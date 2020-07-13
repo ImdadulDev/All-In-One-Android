@@ -1,6 +1,6 @@
 package com.android.imdadul.aio.data.network
 
-import com.android.imdadul.aio.util.ApiException
+import com.android.imdadul.aio.utils.ApiException
 import org.json.JSONException
 import org.json.JSONObject
 import retrofit2.Response

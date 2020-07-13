@@ -1,4 +1,4 @@
-package com.android.imdadul.aio.util
+package com.android.imdadul.aio.ui.viewfun
 
 import android.content.Context
 import android.view.View

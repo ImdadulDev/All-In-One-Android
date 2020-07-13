@@ -9,7 +9,7 @@ import com.android.imdadul.aio.data.db.entities.Quote
 import com.android.imdadul.aio.data.network.MyApi
 import com.android.imdadul.aio.data.network.SafeApiRequest
 import com.android.imdadul.aio.data.preferences.PreferenceProvider
-import com.android.imdadul.aio.util.Coroutines
+import com.android.imdadul.aio.utils.Coroutines
 import java.lang.Exception
 import java.time.LocalDateTime
 import java.time.temporal.ChronoUnit

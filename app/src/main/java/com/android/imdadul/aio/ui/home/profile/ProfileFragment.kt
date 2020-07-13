@@ -7,6 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.databinding.DataBindingUtil
+import androidx.lifecycle.ViewModelProvider
 
 import com.android.imdadul.aio.R
 import com.android.imdadul.aio.databinding.ProfileFragmentBinding
@@ -27,7 +28,7 @@ class ProfileFragment : Fragment(), KodeinAware {
     ): View? {
         val binding: ProfileFragmentBinding =
             DataBindingUtil.inflate(inflater, R.layout.profile_fragment, container, false)
-        viewModel = ViewModelProviders.of(this, factory).get(ProfileViewModel::class.java)
+        viewModel = ViewModelProvider(this, factory).get(ProfileViewModel::class.java)
         binding.viewmodel = viewModel
         binding.lifecycleOwner = this
         return binding.root

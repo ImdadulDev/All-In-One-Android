@@ -3,4 +3,69 @@
     <color name="colorPrimary">#969EEE</color>
     <color name="colorPrimaryDark">#555C96</color>
     <color name="colorAccent">#969EEE</color>
+
+    <color name="black">#000000</color>
+    <color name="blue_700">#2E9FFF</color>
+    <color name="blue_100">#D0E5FF</color>
+    <color name="blue_300">#A9CDFA</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_80">#BFFFFFFF</color>
+    <color name="orange">#FA7000</color>
+    <color name="green_white">#7CB342</color>
+    <color name="purple_deep">#7B1FA2</color>
+    <color name="pink_deep">#C2185B</color>
+    <color name="black_500">#66000000</color>
+    <color name="black_700">#5C5C5C</color>
+    <color name="black_800">#4B4B4B</color>
+    <color name="login_btn">#49ABFF</color>
+
+
+    <color name="green_100">#007524</color>
+    <color name="green_light_70">#0FB843</color>
+    <color name="green_cyan">#11D18E</color>
+    <color name="violet_deep">#542DA6</color>
+    <color name="grey_deep">#4E6773</color>
+    <color name="red_deep">#B51F1F</color>
+    <color name="grey_dark">#232E33</color>
+    <color name="magnato_dark">#B33C60</color>
+
+    //my picked color
+    <color name="black_overlay">#FFFFFF</color>
+    <color name="red">#FF3434</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="transparent_white_30">#A6E25383</color>
+    <color name="transparent_20">#34000000</color>
+    <color name="transparent_40">#65000000</color>
+    <color name="light_yellow">#D7FFF7D9</color>
+    <color name="grey">#BEECECEC</color>
+    <color name="grey_10">#F0F0F0</color>
+    <color name="grey_15">#E7E7E7</color>
+    <color name="grey_50">#B3B3B3</color>
+    <color name="grey_500">#797979</color>
+    <color name="grey_80">#262626</color>
+    <color name="grey_20">#DADADA</color>
+    <color name="cyan">#00D3EE</color>
+    <color name="cyan_dark">#0098AC</color>
+    <color name="yellow_30">#FFF0A7</color>
+
+    <color name="textColorDark">#3C3C3C</color>
+    <color name="textColorWhite">#ffffff</color>
+    <color name="textColorBlue">#1374d8</color>
+
+    <color name="cardViewBg">#ffffff</color>
+
+    <color name="imageTintWhite">#ffffff</color>
+    <color name="imageTintBlue">#1374d8</color>
+    <color name="imageTintGreyDark">#4E3E3E</color>
+    <color name="imageTintGrey_60">#757070</color>
+
+
+    <color name="reddish_grey_100">#B67D75</color>
+    <color name="reddish_grey_40">#C8AC98</color>
+    <color name="reddish_grey_10">#5EE3C1AB</color>
+    <color name="reddish_grey_deep_100">#330000</color>
+    <color name="grey_deep_80">#565656</color>
+    <color name="grey_deep_40">#857B74</color>
+    <color name="grey_deep_20">#A6A6A6</color>
+    <color name="reddish_grey_light_50">#B59C8A</color>
 </resources>

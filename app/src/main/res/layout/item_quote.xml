@@ -3,7 +3,7 @@
         xmlns:tools="http://schemas.android.com/tools">
     <data>
         <variable name="quote"
-                  type="net.rexdev.mvvm.data.db.entities.Quote"/>
+                  type="com.android.imdadul.aio.data.db.entities.Quote"/>
     </data>
 
     <com.google.android.material.card.MaterialCardView
