@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "40338753498",
+    "firebase_url": "https://all-in-one-android-bbea4.firebaseio.com",
+    "project_id": "all-in-one-android-bbea4",
+    "storage_bucket": "all-in-one-android-bbea4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40338753498:android:d22a9ced73628f98c8e2e3",
+        "android_client_info": {
+          "package_name": "com.android.imdadul.aio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40338753498-rdnl5fkm2doe0r2uvtvdhdl4gmcc7p38.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlsGybdI7aE42UixzwJLZ06deTJb-ZwTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40338753498-rdnl5fkm2doe0r2uvtvdhdl4gmcc7p38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
